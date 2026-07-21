@@ -6,7 +6,7 @@
 acryldata/datahub-actions:v1.6.0-slim
 #acryldata/datahub-gms:v1.6.0
 acryldata/datahub-upgrade:v1.6.0
-acryldata/datahub-kafka-setup:v1.6.0
+#acryldata/datahub-kafka-setup:v1.6.0
 elasticsearch:7.16.1
 #janusgraph/janusgraph:0.6.4
 #opensearchproject/opensearch:2.6.0
