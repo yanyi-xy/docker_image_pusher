@@ -16,6 +16,7 @@ acryldata/datahub-kafka-setup:head
 #neo4j:4.4.9-community
 #mysql:8.2
 
+
 confluentinc/cp-zookeeper:7.5.0
 confluentinc/cp-kafka:7.5.0
 confluentinc/cp-schema-registry:7.5.0
