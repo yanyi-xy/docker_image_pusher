@@ -15,3 +15,15 @@ acryldata/datahub-kafka-setup:head
 #confluentinc/cp-zookeeper:7.9.2
 #neo4j:4.4.9-community
 #mysql:8.2
+
+confluentinc/cp-zookeeper:7.5.0
+confluentinc/cp-kafka:7.5.0
+confluentinc/cp-schema-registry:7.5.0
+opensearchproject/opensearch:2.19.3
+acryldata/datahub-upgrade:v1.7.0
+acryldata/datahub-gms:v1.7.0
+acryldata/datahub-frontend-react:v1.7.0
+acryldata/datahub-mce-consumer:v1.7.0
+acryldata/datahub-mae-consumer:v1.7.0
+acryldata/datahub-actions:v1.7.0
+neo4j:5-community
