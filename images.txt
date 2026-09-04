@@ -6,7 +6,7 @@
 #acryldata/datahub-actions:v1.6.0-slim
 #acryldata/datahub-gms:v1.6.0
 #acryldata/datahub-upgrade:v1.6.0
-acryldata/datahub-kafka-setup:head
+#acryldata/datahub-kafka-setup:head
 #elasticsearch:7.16.1
 #janusgraph/janusgraph:0.6.4
 #opensearchproject/opensearch:2.6.0
@@ -17,14 +17,14 @@ acryldata/datahub-kafka-setup:head
 #mysql:8.2
 
 
-confluentinc/cp-zookeeper:7.5.0
-confluentinc/cp-kafka:7.5.0
-confluentinc/cp-schema-registry:7.5.0
-opensearchproject/opensearch:2.19.3
+#confluentinc/cp-zookeeper:7.5.0
+#confluentinc/cp-kafka:7.5.0
+#confluentinc/cp-schema-registry:7.5.0
+#opensearchproject/opensearch:2.19.3
 acryldata/datahub-upgrade:v1.7.0
-acryldata/datahub-gms:v1.7.0
-acryldata/datahub-frontend-react:v1.7.0
-acryldata/datahub-mce-consumer:v1.7.0
-acryldata/datahub-mae-consumer:v1.7.0
-acryldata/datahub-actions:v1.7.0
-neo4j:5-community
+#acryldata/datahub-gms:v1.7.0
+#acryldata/datahub-frontend-react:v1.7.0
+#acryldata/datahub-mce-consumer:v1.7.0
+#acryldata/datahub-mae-consumer:v1.7.0
+#acryldata/datahub-actions:v1.7.0
+#neo4j:5-community
